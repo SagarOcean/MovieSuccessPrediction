@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142119028368",
+    "firebase_url": "https://movieprediction-ac38e.firebaseio.com",
+    "project_id": "movieprediction-ac38e",
+    "storage_bucket": "movieprediction-ac38e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142119028368:android:08069ffdcc227191aeba15",
+        "android_client_info": {
+          "package_name": "com.blogapp.aws.movieuitemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142119028368-gb2c6aul08rm7sjiaqqjbopqastohus5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogapp.aws.movieuitemplate",
+            "certificate_hash": "448c5c743101644f39d1e9d4cbdb54488595f66c"
+          }
+        },
+        {
+          "client_id": "142119028368-7hdaogdc65fgtneapmqegq0j0lk07t7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjK9tAJiRVbjbscZUOoMCoGuFKmF5vXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142119028368-7hdaogdc65fgtneapmqegq0j0lk07t7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
